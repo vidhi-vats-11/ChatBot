@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Python virtual environment
+venv/
+.venv/
+
+# Other files to ignore
+*.log
+__pycache__/
+*.pyc
